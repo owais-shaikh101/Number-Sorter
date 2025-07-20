@@ -1,6 +1,6 @@
 # Number Sorter
 
-Number Sorter is a simple, interactive web application that allows users to input a set of five numbers and sort them in ascending order. This project demonstrates the implementation of multiple sorting algorithms including Bubble Sort, Selection Sort, and Insertion Sort. The application uses a clean, responsive design and provides immediate feedback to the user by displaying the sorted array.
+It is a simple, interactive web application that allows users to input a set of five numbers and sort them in ascending order. This project demonstrates the implementation of multiple sorting algorithms including Bubble Sort, Selection Sort, and Insertion Sort. The application uses a clean, responsive design and provides immediate feedback to the user by displaying the sorted array.
 
 ## Features
 - **User-friendly Interface**: Users can select numbers from dropdowns to create a list of values, which will then be sorted.
